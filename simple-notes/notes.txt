@@ -1,0 +1,5 @@
+Simple Notes Project
+
+- Learn Git basics
+- Add multiple projects to one repo
+- Practice clean commits
