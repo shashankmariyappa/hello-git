@@ -1,0 +1,7 @@
+Mini Calculator Project
+
+Operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division
