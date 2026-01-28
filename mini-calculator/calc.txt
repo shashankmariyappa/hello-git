@@ -4,5 +4,10 @@ Operations:
 - Addition
 - Subtraction
 - Multiplication
+<<<<<<< HEAD
 - Division (integer only)
 
+=======
+- Division
+- Modulus
+>>>>>>> feature-division
